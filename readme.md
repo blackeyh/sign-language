@@ -7,7 +7,7 @@
 ## 📽️ Demo
 
 Check out the full system in action in our demo video:  
-🎥 [`demo.mkv`](demo.mkv)
+🎥 [`demo.mkv`](demo.mp4)
 
 ---
 
