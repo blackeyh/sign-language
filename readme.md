@@ -7,7 +7,8 @@
 ## 📽️ Demo
 
 Check out the full system in action in our demo video:  
-🎥 [`demo.mp4`](demo.mp4)
+🎥 [![Watch the video](https://img.youtube.com/vi/AsinvJ20Tew/maxresdefault.jpg)](https://youtu.be/AsinvJ20Tew)
+
 
 ---
 
