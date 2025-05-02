@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772862487276",
+    "project_id": "tolba-3f1db",
+    "storage_bucket": "tolba-3f1db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772862487276:android:00cc123053601e193053c9",
+        "android_client_info": {
+          "package_name": "com.tolba.Myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARTAhU3IeqC-GJiaG5sELl0LksMROrYpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

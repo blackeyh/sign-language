@@ -1,0 +1,10 @@
+^D:\WORK\AHMED TOLBA\SIGN_LANGUAGE_SENDER\BUILD\WINDOWS\X64\CMAKEFILES\E33428608DD728BD4188F88BAE364BF6\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
